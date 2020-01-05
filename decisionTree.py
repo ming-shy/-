@@ -1,3 +1,4 @@
+# 该决策树使用ID3、C4.5实现，且C4.5未处理连续型的特征
 import numpy as np
 import os
 
